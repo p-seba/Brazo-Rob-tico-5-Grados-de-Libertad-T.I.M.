@@ -67,3 +67,11 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# --- Exclusiones específicas para múltiples proyectos de PlatformIO ---
+**/ .pio/
+**/ .pioenvs/
+**/ .piolibdeps/
+**/ .clang_complete
+**/ .gcc-flags.json
+**/.vscode/
