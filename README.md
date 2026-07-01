@@ -4,9 +4,9 @@ Proyecto Taller Inicial de Mecatrónica, Facultad de Ingeniería, Uncuyo.
 En este repositorio encontraras todos los archivos asociados a la realización y presentación final del proyecto.    
 
 Aplicaciones utilizadas: 
-    AutoDesk Fusion.
-    KiCad.
-    Visual Studio Code (PlatformIO).
+AutoDesk Fusion.
+KiCad.
+Visual Studio Code (PlatformIO).
 
 En la carpeta de Código están subidos un rejunte de todos los codigos utilizados y el codigo final. 
 
