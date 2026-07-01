@@ -19,7 +19,7 @@ En la carpeta **Documentación** están subidos todos los trabajos prácticos as
 ## Enlaces de interés 
 
 * **Diseño en Fusion:** https://a360.co/4xZ3YgB 
-* **Informe:** [Agregar link aquí si lo tenés]
+* **Informe:** 
 
 ### Herramientas:
 * **Autodesk Fusion:** https://www.autodesk.com/latam/products/fusion-360/overview
